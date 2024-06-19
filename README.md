@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Html,css,js,java,SpringBoot,MySql**
 
-- 👨‍💻 All of my projects are available at [https://sriram1403.github.io/](https://sriram1403.github.io/)
+- 👨‍💻 My Personal Portfolio [https://sriram1403.github.io/](https://sriram1403.github.io/)
 
 - 💬 Ask me about **java,SpringBoot**
 
