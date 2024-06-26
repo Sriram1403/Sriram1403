@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriram1403&label=Profile%20views&color=0e75b6&style=flat" alt="sriram1403" /> </p>
 
 - 🌱 I’m currently learning **Html,css,js,java,
-- SpringBoot,MySql**
+   SpringBoot,MySql**
 
 - 👨‍💻 My Personal Portfolio [https://sriram1403.github.io/](https://sriram1403.github.io/)
 
